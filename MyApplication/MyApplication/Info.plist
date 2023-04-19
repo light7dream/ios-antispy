@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>com.ioscodev.MyApplication</string>
+	</array>
+	<key>NSAppleMusicUsageDescription </key>
+	<string>For AntiSpy</string>
+	<key>NSBluetoothAlwaysUsageDescription  </key>
+	<string>For AntiSpy</string>
+	<key>PHPhotoLibrary</key>
+	<string>For AntiSpy</string>
+</dict>
+</plist>
